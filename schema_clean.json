@@ -911,7 +911,7 @@
                     "type": "integer",
                     "title": "Branch max length",
                     "description": "the max length for the displayed branch name where 0 implies full length",
-                    "default": -1
+                    "default": 0
                   },
                   "untracked_modes": {
                     "type": "object",

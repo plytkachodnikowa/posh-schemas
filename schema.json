@@ -1430,7 +1430,7 @@
                     "type": "string",
                     "title": "Windows Icon",
                     "description": "Icon/text to use for Windows",
-                    "default": "\uF17C"
+                    "default": "\uF17A"
                   },
                   "display_distro_name": {
                     "type": "boolean",

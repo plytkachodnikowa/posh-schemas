@@ -427,7 +427,7 @@
                 "type": "string",
                 "title": "Powerline Symbol",
                 "description": "https://ohmyposh.dev/docs/configuration/segment#powerline-symbol",
-                "default": "\uE0B0"
+                "default": ""
               },
               "invert_powerline": {
                 "type": "boolean",
@@ -809,7 +809,7 @@
                     "type": "string",
                     "title": "Branch Icon",
                     "description": "The icon to use in front of the git branch name",
-                    "default": false
+                    "default": ""
                   },
                   "branch_identical_icon": {
                     "type": "string",
@@ -1356,13 +1356,13 @@
                     "type": "string",
                     "title": "Yarn Icon",
                     "description": "Icon/text to use for Yarn",
-                    "default": " \uF61A"
+                    "default": " "
                   },
                   "npm_icon": {
                     "type": "string",
                     "title": "NPM Icon",
                     "description": "Icon/text to use for NPM",
-                    "default": " \uE71E"
+                    "default": " "
                   }
                 }
               }
@@ -1418,19 +1418,19 @@
                     "type": "string",
                     "title": "MacOS Icon",
                     "description": "Icon/text to use for macOS",
-                    "default": "\uF179"
+                    "default": ""
                   },
                   "linux": {
                     "type": "string",
                     "title": "Linux Icon",
                     "description": "Icon/text to use for Linux",
-                    "default": "\uF17C"
+                    "default": ""
                   },
                   "windows": {
                     "type": "string",
                     "title": "Windows Icon",
                     "description": "Icon/text to use for Windows",
-                    "default": "\uF17A"
+                    "default": ""
                   },
                   "display_distro_name": {
                     "type": "boolean",
@@ -1442,115 +1442,115 @@
                     "type": "string",
                     "title": "Alpine Icon",
                     "description": "The icon to use for Alpine",
-                    "default": "\uF300"
+                    "default": ""
                   },
                   "aosc": {
                     "type": "string",
                     "title": "Aosc Icon",
                     "description": "The icon to use for Aosc",
-                    "default": "\uF301"
+                    "default": ""
                   },
                   "arch": {
                     "type": "string",
                     "title": "Arch Icon",
                     "description": "The icon to use for Arch",
-                    "default": "\uF303"
+                    "default": ""
                   },
                   "centos": {
                     "type": "string",
                     "title": "Centos Icon",
                     "description": "The icon to use for Centos",
-                    "default": "\uF303"
+                    "default": ""
                   },
                   "coreos": {
                     "type": "string",
                     "title": "Coreos Icon",
                     "description": "The icon to use for Coreos",
-                    "default": "\uF305"
+                    "default": ""
                   },
                   "debian": {
                     "type": "string",
                     "title": "Debian Icon",
                     "description": "The icon to use for Debian",
-                    "default": "\uF306"
+                    "default": ""
                   },
                   "devuan": {
                     "type": "string",
                     "title": "Devuan Icon",
                     "description": "The icon to use for Devuan",
-                    "default": "\uF307"
+                    "default": ""
                   },
                   "raspbian": {
                     "type": "string",
                     "title": "Raspbian Icon",
                     "description": "The icon to use for Raspbian",
-                    "default": "\uF315"
+                    "default": ""
                   },
                   "elementary": {
                     "type": "string",
                     "title": "Elementary Icon",
                     "description": "The icon to use for Elementary",
-                    "default": "\uF309"
+                    "default": ""
                   },
                   "fedora": {
                     "type": "string",
                     "title": "Fedora Icon",
                     "description": "The icon to use for Fedora",
-                    "default": "\uF30a"
+                    "default": ""
                   },
                   "gentoo": {
                     "type": "string",
                     "title": "Gentoo Icon",
                     "description": "The icon to use for Gentoo",
-                    "default": "\uF30d"
+                    "default": ""
                   },
                   "mageia": {
                     "type": "string",
                     "title": "Mageia Icon",
                     "description": "The icon to use for Mageia",
-                    "default": "\uF310"
+                    "default": ""
                   },
                   "manjaro": {
                     "type": "string",
                     "title": "Manjaro Icon",
                     "description": "The icon to use for Manjaro",
-                    "default": "\uF312"
+                    "default": ""
                   },
                   "mint": {
                     "type": "string",
                     "title": "Mint Icon",
                     "description": "The icon to use for Mint",
-                    "default": "\uF30e"
+                    "default": ""
                   },
                   "nixos": {
                     "type": "string",
                     "title": "Nixos Icon",
                     "description": "The icon to use for Nixos",
-                    "default": "\uF313"
+                    "default": ""
                   },
                   "opensuse": {
                     "type": "string",
                     "title": "Opensuse Icon",
                     "description": "The icon to use for Opensuse",
-                    "default": "\uF314"
+                    "default": ""
                   },
                   "sabayon": {
                     "type": "string",
                     "title": "Sabayon Icon",
                     "description": "The icon to use for Sabayon",
-                    "default": "\uF317"
+                    "default": ""
                   },
                   "slackware": {
                     "type": "string",
                     "title": "Slackware Icon",
                     "description": "The icon to use for Slackware",
-                    "default": "\uF319"
+                    "default": ""
                   },
                   "ubuntu": {
                     "type": "string",
                     "title": "Ubuntu Icon",
                     "description": "The icon to use for Ubuntu",
-                    "default": "\uF31b"
+                    "default": ""
                   }
                 }
               }
@@ -1593,7 +1593,7 @@
                     "type": "string",
                     "title": "Windows Registry Icon",
                     "description": "The icon to display when in the Windows registry",
-                    "default": "\uE0B1"
+                    "default": ""
                   },
                   "style": {
                     "type": "string",
@@ -1725,7 +1725,7 @@
                     "type": "string",
                     "title": "SSH Icon",
                     "description": "Text/icon to display first when in an active SSH session",
-                    "default": "\uF817"
+                    "default": ""
                   }
                 }
               }
@@ -1775,19 +1775,19 @@
                     "type": "string",
                     "title": "User Info Separator",
                     "description": "Text/icon to show when playing",
-                    "default": "\uE602"
+                    "default": ""
                   },
                   "paused_icon": {
                     "type": "string",
                     "title": "SSH Icon",
                     "description": "Text/icon to show when paused",
-                    "default": "\uF8E3"
+                    "default": ""
                   },
                   "stopped_icon": {
                     "type": "string",
                     "title": "SSH Icon",
                     "description": "Text/icon to show when stopped",
-                    "default": "\uF04D"
+                    "default": ""
                   },
                   "track_separator": {
                     "type": "string",
@@ -1881,19 +1881,19 @@
                     "type": "string",
                     "title": "User Info Separator",
                     "description": "Text/icon to show when playing",
-                    "default": "\uE602"
+                    "default": ""
                   },
                   "paused_icon": {
                     "type": "string",
                     "title": "SSH Icon",
                     "description": "Text/icon to show when paused",
-                    "default": "\uF8E3"
+                    "default": ""
                   },
                   "stopped_icon": {
                     "type": "string",
                     "title": "SSH Icon",
                     "description": "Text/icon to show when stopped",
-                    "default": "\uF04D"
+                    "default": ""
                   },
                   "track_separator": {
                     "type": "string",
@@ -2055,31 +2055,31 @@
                     "type": "string",
                     "title": "Alternative icon",
                     "description": "Alternative icon for this activity type",
-                    "default": "\uf5a2"
+                    "default": ""
                   },
                   "run_icon": {
                     "type": "string",
                     "title": "Alternative icon",
                     "description": "Alternative icon for this activity type",
-                    "default": "\ufc0c"
+                    "default": "ﰌ"
                   },
                   "skiing_icon": {
                     "type": "string",
                     "title": "Alternative icon",
                     "description": "Alternative icon for this activity type",
-                    "default": "\ue213"
+                    "default": ""
                   },
                   "workout_icon": {
                     "type": "string",
                     "title": "Alternative icon",
                     "description": "Alternative icon for this activity type",
-                    "default": "\ue213"
+                    "default": ""
                   },
                   "unknown_activity_icon": {
                     "type": "string",
                     "title": "Fallback icon",
                     "description": "Fallback icon for other activity types",
-                    "default": "\ue213"
+                    "default": ""
                   },
                   "http_timeout": {
                     "$ref": "#/definitions/http_timeout"
@@ -2308,19 +2308,19 @@
                     "type": "string",
                     "title": "Branch Icon",
                     "description": "The icon to use in front of the selector branch name",
-                    "default": "\uE0A0 "
+                    "default": " "
                   },
                   "commit_icon": {
                     "type": "string",
                     "title": "Commit Icon",
                     "description": "Icon/text to display before the selector changeset",
-                    "default": "\uF417"
+                    "default": ""
                   },
                   "tag_icon": {
                     "type": "string",
                     "title": "Tag Icon",
                     "description": "Icon/text to display before the seletor label",
-                    "default": "\uF412"
+                    "default": ""
                   },
                   "branch_max_length": {
                     "type": "integer",
@@ -2429,37 +2429,37 @@
                     "type": "string",
                     "title": "Icon for batch in planning",
                     "description": "Available in template as .StatusIcon",
-                    "default": "\uF8EA"
+                    "default": ""
                   },
                   "brewing_status_icon": {
                     "type": "string",
                     "title": "Icon for batch being brewed",
                     "description": "Available in template as .StatusIcon",
-                    "default": "\uF7DE"
+                    "default": ""
                   },
                   "fermenting_status_icon": {
                     "type": "string",
                     "title": "Icon for batch fermenting",
                     "description": "Available in template as .StatusIcon",
-                    "default": "\uF499"
+                    "default": ""
                   },
                   "conditioning_status_icon": {
                     "type": "string",
                     "title": "Icon for batch conditioning",
                     "description": "Available in template as .StatusIcon",
-                    "default": "\uE372"
+                    "default": ""
                   },
                   "completed_status_icon": {
                     "type": "string",
                     "title": "Icon for completed batch",
                     "description": "Available in template as .StatusIcon",
-                    "default": "\uF7A5"
+                    "default": ""
                   },
                   "archived_status_icon": {
                     "type": "string",
                     "title": "Icon for archived batch",
                     "description": "Available in template as .StatusIcon",
-                    "default": "\uF187"
+                    "default": ""
                   }
                 }
               }

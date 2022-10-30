@@ -809,103 +809,103 @@
                     "type": "string",
                     "title": "Branch Icon",
                     "description": "The icon to use in front of the git branch name",
-                    "default": ""
+                    "default": false
                   },
                   "branch_identical_icon": {
                     "type": "string",
                     "title": "Branch Identical Icon",
                     "description": "The icon to display when remote and local are identical",
-                    "default": ""
+                    "default": false
                   },
                   "branch_ahead_icon": {
                     "type": "string",
                     "title": "Branch Ahead Icon",
                     "description": "The icon to display when the local branch is ahead of its remote",
-                    "default": ""
+                    "default": false
                   },
                   "branch_behind_icon": {
                     "type": "string",
                     "title": "Branch Behind Icon",
                     "description": "The icon to display when the local branch is behind its remote",
-                    "default": ""
+                    "default": false
                   },
                   "branch_gone_icon": {
                     "type": "string",
                     "title": "Branch Gone Icon",
                     "description": "The icon to display when there's no remote branch",
-                    "default": ""
+                    "default": false
                   },
                   "commit_icon": {
                     "type": "string",
                     "title": "Commit Icon",
                     "description": "Icon/text to display before the commit context (detached HEAD)",
-                    "default": ""
+                    "default": false
                   },
                   "tag_icon": {
                     "type": "string",
                     "title": "Tag Icon",
                     "description": "Icon/text to display before the tag context",
-                    "default": ""
+                    "default": false
                   },
                   "rebase_icon": {
                     "type": "string",
                     "title": "Rebase Icon",
                     "description": "Icon/text to display before the context when in a rebase",
-                    "default": ""
+                    "default": false
                   },
                   "cherry_pick_icon": {
                     "type": "string",
                     "title": "Cherry-pick Icon",
                     "description": "Icon/text to display before the context when doing a cherry-pick",
-                    "default": ""
+                    "default": false
                   },
                   "revert_icon": {
                     "type": "string",
                     "title": "Revert Icon",
                     "description": "Icon/text to display before the context when doing a revert",
-                    "default": ""
+                    "default": false
                   },
                   "merge_icon": {
                     "type": "string",
                     "title": "Merge Icon",
                     "description": "Icon/text to display before the merge context",
-                    "default": ""
+                    "default": false
                   },
                   "no_commits_icon": {
                     "type": "string",
                     "title": "No Commits Icon",
                     "description": "Icon/text to display when there are no commits in the repo",
-                    "default": ""
+                    "default": false
                   },
                   "github_icon": {
                     "type": "string",
                     "title": "Github Icon",
                     "description": "Icon/text to display when the upstream is Github",
-                    "default": ""
+                    "default": false
                   },
                   "gitlab_icon": {
                     "type": "string",
                     "title": "Gitlab Icon",
                     "description": "Icon/text to display when the upstream is Gitlab",
-                    "default": ""
+                    "default": false
                   },
                   "bitbucket_icon": {
                     "type": "string",
                     "title": "Bitbucket Icon",
                     "description": "Icon/text to display when the upstream is Bitbucket",
-                    "default": ""
+                    "default": false
                   },
                   "azure_devops_icon": {
                     "type": "string",
                     "title": "Azure DevOps Icon",
                     "description": "Icon/text to display when the upstream is Azure DevOps",
-                    "default": ""
+                    "default": false
                   },
                   "git_icon": {
                     "type": "string",
                     "title": "Git Icon",
                     "description": "Icon/text to display when the upstream is not known/mapped",
-                    "default": ""
+                    "default": false
                   },
                   "branch_max_length": {
                     "type": "integer",
